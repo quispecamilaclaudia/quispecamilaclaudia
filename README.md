@@ -1,6 +1,6 @@
 Hi! I'm Camila 👋
 
-## QA Analyst with over 10 years of experience in banking and telecommunications, combining a strong background in application support with hands-on experience in software testing and quality assurance.
+QA Analyst with over 10 years of experience in banking and telecommunications, combining a strong background in application support with hands-on experience in software testing and quality assurance.
 
 💼 About Me
 
